@@ -9,7 +9,7 @@
 
 <hr>
 
-## this is my super hacks
+## this is my super hacks 😎
 
 | Name | URL |
 | ------ | ------ |
